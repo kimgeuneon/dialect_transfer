@@ -3,7 +3,7 @@ import json
 
 # JSON 파일들이 저장된 경로
 json_folder_path = './1'  # JSON 파일이 저장된 폴더 경로
-output_file_path = 'data.json'  # 최종 병합된 JSON 파일 이름
+output_file_path = 'jeju_data.json'  # 최종 병합된 JSON 파일 이름
 
 # JSON 파일 병합 및 변환 함수
 def merge_and_transform_json(json_folder_path, output_file_path):
